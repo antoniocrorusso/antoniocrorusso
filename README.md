@@ -4,10 +4,10 @@
 
 <h3>About me:</h3>
 <pre>
-:video_game: I'm a Game dev and programmer.  
-:dog: Human of three doggos: Yuna, Paçoca e Costelinha.  
-:soccer: Football fan and S.E. Palmeiras supporter  
-:chart_with_upwards_trend: Casual maker of Ethereum Smart Contracts and Dapps.
+🎮 I'm a Game dev and programmer.  
+🐶 Human of three doggos: Yuna, Paçoca e Costelinha.  
+⚽ Football fan and S.E. Palmeiras supporter  
+💹 Casual maker of Ethereum Smart Contracts and Dapps.
 </pre>
 
 </div>
